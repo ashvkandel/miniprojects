@@ -10,7 +10,7 @@ This repository holds the first set of projects I've worked on. Each project liv
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [src/quiz.java](./project-1) | mcq based normal program | JAVA |
+| [https://github.com/ashvkandel/miniprojects/blob/248d17ae043edde00ae00f104c0f761fa1a69b9a/src/quiz.java]) | mcq based normal program | JAVA |
 | [](./project-2) |              |                      |
 
 
